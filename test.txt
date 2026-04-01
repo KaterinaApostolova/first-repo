@@ -1,1 +1,3 @@
 Tova e test.
+s gitBashVariant1
+
