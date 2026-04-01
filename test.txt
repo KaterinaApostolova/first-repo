@@ -1,2 +1,7 @@
 Tova e test.
+
 test s gitbash2.
+=======
+s gitBashVariant1
+
+
